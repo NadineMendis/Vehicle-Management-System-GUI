@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vehicles
+comment1.params=id
+comment1.target=Vehicle\ find(int)
+comment2.params=vehicle
+comment2.target=void\ add(Vehicle)
+comment3.params=owner\ vehicleType\ rentalPeriod\ rentalPrice
+comment3.target=void\ addRentVehicle(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment4.params=owner\ vehicleType\ sellPrice
+comment4.target=void\ addSellVehicle(java.lang.String,\ java.lang.String,\ double)
+comment5.params=scenario
+comment5.target=void\ updateViews(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
